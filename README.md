@@ -1,2 +1,2 @@
 # E-commerce-Project
- Another Excel only project
+An Excel-based project focused on exploratory data analysis (EDA), data cleaning, and data visualization.
